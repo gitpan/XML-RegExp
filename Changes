@@ -1,5 +1,8 @@
 Revision history for Perl extension XML::RegExp.
 
+0.03  6/26/2001 (tjmather)
+	- updated docs, added license
+
 0.02  6/20/2001 (tjmather)
 	- moved out of libxml-enno, added $VERSION
 
